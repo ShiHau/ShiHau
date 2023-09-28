@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShiHau
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Mechatronics Engineering in Monash University
+- 👀 I’m interested in deep learning, AI, computer vision, robotics
+- 🌱 I’m currently learning Robotics and Mechatronics Engineering in Monash University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: slee0068@student.monash.edu
+- 📫 How to reach me email: leeshihau@student.monash.edu
 
 <!---
 ShiHau/ShiHau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
