@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShiHau
-- 👀 I’m interested in deep learning, AI, computer vision, robotics
-- 🌱 I’m currently learning Robotics and Mechatronics Engineering in Monash University
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building distributed platforms and services that solve real problems
+- 🎓 Graduated from Monash University Malaysia | Bachelors in Robotics and Mechatronics Engineering
+- 🌱 I’m currently focusing my learning on DevOps, SRE specific technologies. AWS, Kubernetes, Terraform etc.
 - 📫 How to reach me email: leeshihau@gmail.com
 
 <!---
